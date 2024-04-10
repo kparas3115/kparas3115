@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kparas3115
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python and DSA
+- 🌱 I’m currently learning Python and DSA and looking for technical content writing intern roles.
 - 💞️ I’m looking to collaborate on multiple projects help expand my boundaries.
-- 📫 How to reach me -
+- 📫 How to reach me:
   1. Connect with me on LinkedIn: https://www.linkedin.com/in/paras-kumbhar/
   2. Connect with me on Instagram: https://www.instagram.com/k_paras.31/?hl=en
 - 😄 Pronouns: He/Him
