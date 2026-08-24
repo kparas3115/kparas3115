@@ -57,35 +57,31 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 ### 🛠️ Tech Stack & Proficiency
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,postgres,mongodb,git,github,vscode,pycharm,tableau,powerbi,streamlit,huggingface,langchain,neo4j&perline=8" alt="Tech stack icons">
-</p>
-
 **Languages & Query Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-92%25-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-60%25-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-55%25-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-92%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/SQL-90%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/R-60%25-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-55%25-orange?style=flat-square">
 </p>
 
 **AI / ML / Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-88%25-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep%20Learning%20%26%20LLMs-82%25-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Engineering-90%25-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Visualization-85%25-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/NLP%20%26%20Explainable%20AI-78%25-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Machine%20Learning-88%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/Deep%20Learning%20%26%20LLMs-82%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Engineering-90%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Visualization-85%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/NLP%20%26%20Explainable%20AI-78%25-yellowgreen?style=flat-square">
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-90%25-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow%20%2F%20Postman%20%2F%20Redash-75%25-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB%20%2F%20Neo4j%20%2F%20FAISS-72%25-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Git%2FGitHub-90%25-4c1?style=flat-square">
+  <img src="https://img.shields.io/badge/Airflow%20%2F%20Postman%20%2F%20Redash-75%25-yellowgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/MongoDB%20%2F%20Neo4j%20%2F%20FAISS-72%25-yellowgreen?style=flat-square">
 </p>
 
 <sub>Proficiency levels are a self-assessment based on internship work, hackathon builds, and project depth listed below — not a certification.</sub>
