@@ -111,6 +111,12 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 ### 🏆 Honors & Achievements
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathons%20%2F%20Competitions-17-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wins%20%26%20Podiums-9-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Podium%20Rate-~53%25-orange?style=for-the-badge">
+</p>
+
 **Technical Hackathons & Competitive Programming**
 
 | Result | Event | Organizer | Date |
@@ -182,7 +188,11 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 ### 🎓 Education
 
 **SIES Graduate School of Technology** — B.E. in Artificial Intelligence and Machine Learning
-Nerul, Maharashtra · CGPA: 8.69 · *Nov 2022 – Jun 2026*
+Nerul, Maharashtra · *Nov 2022 – Jun 2026*
+
+| CGPA | 8.69 / 10 |
+|---|---|
+| | ![](https://progress-bar.dev/87/?title=&width=280&color=2E86C1) |
 
 ---
 
