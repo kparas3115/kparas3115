@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Paras Kumbhar 👋</h1>
 
-<h3 align="center">Data Analyst & AI/ML Engineer | Turning raw data into decisions</h3>
+<h3 align="center">AI/ML Engineer & Data Analyst | Building intelligent systems from raw data</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paras-kumbhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,18 +11,22 @@
 
 ---
 
-### 🧭 About Me
+### 🧭 Profile
 
-- 👀 Interested in **Data Science** and **Machine Learning**
-- 🌱 Currently learning **Python** and **DSA**, and looking for **technical content writing intern** roles
-- 💞️ Looking to collaborate on projects that help expand my boundaries
-- 🎓 B.E. in Artificial Intelligence and Machine Learning @ SIES Graduate School of Technology, Nerul (CGPA: 8.69)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paras-kumbhar/) or [Instagram](https://www.instagram.com/k_paras.31/?hl=en)
-- 😄 Pronouns: He/Him
+AI/ML and Data Analytics practitioner with hands-on experience building forecasting engines, attribution pipelines, and explainable AI systems for production environments. Currently pursuing a B.E. in Artificial Intelligence and Machine Learning at SIES Graduate School of Technology (CGPA: 8.69), with internship experience spanning e-commerce attribution, demand forecasting, and SLA analytics.
+
+- **Focus areas:** Machine Learning, Deep Learning, NLP, and applied AI systems for business decision-making
+- **Currently:** Strengthening core algorithms and data structures while deepening expertise in production-grade ML pipelines
+- **Open to:** Collaborations on AI/ML projects, and technical content writing internships
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/paras-kumbhar/) · [Email](mailto:dcparaskumbhar@gmail.com) · [GitHub](https://github.com/kparas3115)
 
 ---
 
 ### 💼 Experience
+
+**Data Analyst Intern — Zouk** · *Aug 2026 – Present*
+- Built an automated DTC sales analytics pipeline in BigQuery, algorithmically segmenting 12,000+ SKUs into 12 price buckets (₹500 to ₹6,000+) to enable faster, model-ready order-level reporting and revenue contribution tracking.
+- Engineered a multi-touch attribution framework for Meta Ads, isolating 1-day-click conversions from 7-day-click + 1-day-view conversions to improve conversion-signal granularity for downstream ML attribution modeling.
 
 **Data Analyst Intern — Grexa AI** · *May 2026 – Jun 2026*
 - Engineered a dynamic SQL pipeline using CTEs to merge 5 relational datasets, powering real-time filtering for an analytics dashboard.
