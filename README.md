@@ -137,29 +137,6 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 ---
 
-### 📸 Moments
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/hackhive-2.0-win.jpg" width="100%" alt="Hackhive 2.0 win with teammates"><br>
-      <sub><b>Runner Up — Hackhive 2.0: The Heist</b><br>DMCE Airoli, with the team</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/techzephyr-win.jpg" width="100%" alt="CodeByte TechZephyr 2.0 trophy">
-      <br>
-      <sub><b>Winner — CodeByte TechZephyr 2.0</b><br>Lokmanya Tilak College of Engineering</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/ai-workshop.webp" width="100%" alt="Conducting a Data Analytics workshop">
-      <br>
-      <sub><b>Leading the AI & Data Analytics Workshop</b><br>IETE Students' Forum, SIESGST</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🧑‍💼 Leadership
 
 **Technical Head - AI and Data Analytics — IETE Students' Forum, SIESGST** · *Jul 2025 – Present*
