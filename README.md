@@ -63,30 +63,30 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 **Languages & Query Tools**
 
-| | |
-|---|---|
-| Python | ![](https://progress-bar.dev/92/?title=&width=280&color=3776AB) |
-| SQL | ![](https://progress-bar.dev/90/?title=&width=280&color=4479A1) |
-| R | ![](https://progress-bar.dev/60/?title=&width=280&color=276DC3) |
-| C / C++ | ![](https://progress-bar.dev/55/?title=&width=280&color=00599C) |
+<p>
+  <img src="https://img.shields.io/badge/Python-92%25-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/R-60%25-276DC3?style=flat-square&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-55%25-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
 
 **AI / ML / Data**
 
-| | |
-|---|---|
-| Machine Learning (Scikit-Learn, ensemble & model-gating systems) | ![](https://progress-bar.dev/88/?title=&width=280&color=F7931E) |
-| Deep Learning & LLMs (LangChain, RAG, LLAMA 3.3) | ![](https://progress-bar.dev/82/?title=&width=280&color=1C3C3C) |
-| Data Engineering (BigQuery, Pandas, NumPy, SQL pipelines) | ![](https://progress-bar.dev/90/?title=&width=280&color=150458) |
-| Data Visualization (Tableau, Power BI, Matplotlib, Seaborn) | ![](https://progress-bar.dev/85/?title=&width=280&color=E97627) |
-| NLP & Explainable AI | ![](https://progress-bar.dev/78/?title=&width=280&color=FFD21E) |
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-88%25-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning%20%26%20LLMs-82%25-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Engineering-90%25-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Visualization-85%25-E97627?style=flat-square&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP%20%26%20Explainable%20AI-78%25-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+</p>
 
 **Tools & Platforms**
 
-| | |
-|---|---|
-| Git / GitHub | ![](https://progress-bar.dev/90/?title=&width=280&color=181717) |
-| Apache Airflow / Postman / Redash | ![](https://progress-bar.dev/75/?title=&width=280&color=017CEE) |
-| MongoDB / Neo4j / FAISS / Apache AGE | ![](https://progress-bar.dev/72/?title=&width=280&color=47A248) |
+<p>
+  <img src="https://img.shields.io/badge/Git%2FGitHub-90%25-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow%20%2F%20Postman%20%2F%20Redash-75%25-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB%20%2F%20Neo4j%20%2F%20FAISS-72%25-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
 
 <sub>Proficiency levels are a self-assessment based on internship work, hackathon builds, and project depth listed below — not a certification.</sub>
 
@@ -190,9 +190,7 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 **SIES Graduate School of Technology** — B.E. in Artificial Intelligence and Machine Learning
 Nerul, Maharashtra · *Nov 2022 – Jun 2026*
 
-| CGPA | 8.69 / 10 |
-|---|---|
-| | ![](https://progress-bar.dev/87/?title=&width=280&color=2E86C1) |
+<img src="https://img.shields.io/badge/CGPA-8.69%20%2F%2010-2E86C1?style=for-the-badge">
 
 ---
 
