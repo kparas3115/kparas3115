@@ -55,50 +55,57 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Proficiency
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,postgres,mongodb,git,github,vscode,pycharm,tableau,powerbi,streamlit,huggingface,langchain,neo4j&perline=8" alt="Tech stack icons">
 </p>
 
-**Technologies & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/APIs-005571?style=flat-square">
-</p>
+**Languages & Query Tools**
 
-**Developer Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Redash-FF7964?style=flat-square">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/FAISS-00A67E?style=flat-square">
-  <img src="https://img.shields.io/badge/Apache%20AGE-D22128?style=flat-square">
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white">
-</p>
+| | |
+|---|---|
+| Python | ![](https://progress-bar.dev/92/?title=&width=280&color=3776AB) |
+| SQL | ![](https://progress-bar.dev/90/?title=&width=280&color=4479A1) |
+| R | ![](https://progress-bar.dev/60/?title=&width=280&color=276DC3) |
+| C / C++ | ![](https://progress-bar.dev/55/?title=&width=280&color=00599C) |
+
+**AI / ML / Data**
+
+| | |
+|---|---|
+| Machine Learning (Scikit-Learn, ensemble & model-gating systems) | ![](https://progress-bar.dev/88/?title=&width=280&color=F7931E) |
+| Deep Learning & LLMs (LangChain, RAG, LLAMA 3.3) | ![](https://progress-bar.dev/82/?title=&width=280&color=1C3C3C) |
+| Data Engineering (BigQuery, Pandas, NumPy, SQL pipelines) | ![](https://progress-bar.dev/90/?title=&width=280&color=150458) |
+| Data Visualization (Tableau, Power BI, Matplotlib, Seaborn) | ![](https://progress-bar.dev/85/?title=&width=280&color=E97627) |
+| NLP & Explainable AI | ![](https://progress-bar.dev/78/?title=&width=280&color=FFD21E) |
+
+**Tools & Platforms**
+
+| | |
+|---|---|
+| Git / GitHub | ![](https://progress-bar.dev/90/?title=&width=280&color=181717) |
+| Apache Airflow / Postman / Redash | ![](https://progress-bar.dev/75/?title=&width=280&color=017CEE) |
+| MongoDB / Neo4j / FAISS / Apache AGE | ![](https://progress-bar.dev/72/?title=&width=280&color=47A248) |
+
+<sub>Proficiency levels are a self-assessment based on internship work, hackathon builds, and project depth listed below — not a certification.</sub>
 
 **Core Competencies**
 
-`Data Quality Control (QC)` · `Data Classification` · `Anomaly Detection` · `Advanced Excel` · `Microsoft Suite` · `Market Research` · `Trend Analytics` · `Data Visualization` · `Artificial Intelligence` · `Technical Documentation` · `Database Management` · `Machine Learning` · `Deep Learning` · `NLP` · `Client Communication`
+`Data Quality Control (QC)` · `Data Classification` · `Anomaly Detection` · `Advanced Excel` · `Microsoft Suite` · `Market Research` · `Trend Analytics` · `Data Visualization` · `Technical Documentation` · `Database Management` · `Client Communication`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kparas3115&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kparas3115&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kparas3115&layout=compact&hide_border=true" alt="Top Languages">
+</p>
 
 ---
 
