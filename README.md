@@ -96,19 +96,6 @@ AI/ML and Data Analytics practitioner with hands-on experience building forecast
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kparas3115&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kparas3115&hide_border=true" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kparas3115&layout=compact&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ### 🏆 Honors & Achievements
 
 <p align="center">
