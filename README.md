@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Paras Kumbhar 👋</h1>
 
-<h3 align="center">AI/ML Engineer & Data Analyst | Building intelligent systems from raw data</h3>
+<h3 align="center">AI/ML Engineer & Data Analyst</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paras-kumbhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
