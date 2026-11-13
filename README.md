@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Paras%20Kumbhar&fontSize=52&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Analyst&descSize=20&descAlignY=58" alt="Paras Kumbhar banner" width="100%"/>
 
 <a href="https://github.com/kparas3115">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2E86C1&center=true&vCenter=true&width=760&lines=Building+forecasting+engines+that+move+real+revenue;Cutting+stockout+detection+from+hours+to+under+60+minutes;Turning+raw+data+into+explainable+AI+systems;Hackathon+winner+%7C+9+podiums+in+17+events;Open+to+AI%2FML+collabs+%26+technical+writing+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2E86C1&center=true&vCenter=true&width=760&lines=Building+forecasting+engines+that+move+real+revenue;Turning+raw+data+into+explainable+AI+systems;Hackathon+winner+%7C+12+podiums+in+17+events;Open+to+AI%2FML+collabs+%26+technical+writing+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <p>
@@ -33,7 +33,7 @@ I build **production-grade ML systems** — demand forecasting engines, attribut
 - 🎓 **B.E. in AI & ML** — SIES Graduate School of Technology · CGPA **8.69**
 - 💼 **Data Analyst Intern** @ Zouk
 - 🧠 **Focus:** ML · Deep Learning · NLP · Explainable AI
-- 🏆 **9 podiums** across **17** hackathons & competitions
+- 🏆 **12 podiums** across **17** hackathons & competitions
 - 🛠️ **Sharpening:** DSA + production ML pipelines
 - 🤝 **Open to:** AI/ML collabs · technical content writing internships
 
@@ -47,7 +47,6 @@ I build **production-grade ML systems** — demand forecasting engines, attribut
 - Multi-touch attribution for Meta Ads
 - SQL pipelines, BigQuery & Apps Script dashboards
 - RAG pipelines, causal models & deepfake forensics
-- Winning hackathons (yes, really 😄)
 
 </td>
 </tr>
@@ -194,7 +193,16 @@ I build **production-grade ML systems** — demand forecasting engines, attribut
 `Llama 3.3` `Retrieval` `Dashboard`
 
 </td>
-<td width="33%"></td>
+<td width="33%">
+
+### 🔍 NETRA.AI
+*Novel-Defect Evaluation & Tracking for Robust Automated Inspection* · Nov 2026
+
+- Developed an AI-powered industrial inspection prototype using **Anomalib + PatchCore**, evaluated on 160 MVTec AD screw images covering 5 defect categories.
+- Achieved **91.25% accuracy, 95.65% precision and 92.44% defect recall** in exploratory evaluation, with pixel-level anomaly localization and OpenCV-based geometric analysis.
+
+`Python` `PyTorch` `Anomalib` `PatchCore` `OpenCV` `Computer Vision`
+</td>
 </tr>
 </table>
 
@@ -269,12 +277,16 @@ I build **production-grade ML systems** — demand forecasting engines, attribut
 
 | Result | Event | Organizer | Date |
 |---|---|---|---|
+| 🥇 **Winning Mentor** | Innovation Pitch League | SIES Graduate School of Technology, Nerul | Oct 2026 |
+| 🥇 **Best Presenter** | Aether Hackconquest | TCET, Kandivali | Sept 2026 |
 | 🥇 **Winner — Best Agentic A.I. Implementation** | Breaking Enigma 4.0 Hackathon | VIT Pune | Apr 2026 |
 | 🥇 **Winner** | AI EXPO 2026 | B.K. Birla College | Jan 2026 |
 | 🥇 **Winner** | CodeByte TechZephyr 2.0 | Lokmanya Tilak College of Engineering | Jan 2026 |
 | 🥈 **Runner Up** | Hackhive 2.0 (Cybersecurity) | DMCE Airoli | Mar 2026 |
 | 🥈 **Runner Up** | Cognition 2025 | SIES Graduate School of Technology | Oct 2025 |
 | 🥈 **Runner Up** | AI Odyssey '25 | Universal AI University | Mar 2025 |
+| 🥉 **Special Mention** | Hack4Humanity 2026 | IEEE Pune Section | Aug 2026 |
+| 🥉 **Special Mention** | VibeCraft Hackathon 2026 | VibeCriminals Community | Aug 2026 |
 
 <details>
 <summary><b>📋 Full list — finalists, rankings, business & athletics</b></summary>
@@ -309,12 +321,19 @@ I build **production-grade ML systems** — demand forecasting engines, attribut
 
 ---
 
-## 🧑‍💼 Leadership
+## Leadership
 
 - **Technical Head, AI & Data Analytics — IETE Students' Forum, SIESGST** · *Jul 2025 – Present*
   Led the AI & Data Analytics vertical of a 5-member IETE-SF team; conducted a Data Analytics workshop for **50+ students**, driving hands-on technical excellence in the domain.
 - **Hospitality Head — Model United Nations 2024, SIESGST** · *Nov 2023 – Mar 2024*
   Managed accommodation, logistics, and amenities for **100+ participants**; negotiated with sponsors and arranged a budget of **₹24,000**.
+
+##  Mentoring and Judging
+
+| Event | Organizer | Date |
+|---|---|---|
+| 🏅 Innovation Pitch League | SIES Graduate School of Technology, Nerul | Oct 2026 |
+| 🏅 Vecna Verse Hackathon 2026 | Mumbai Tech Community | Nov 2026 |
 
 ---
 
